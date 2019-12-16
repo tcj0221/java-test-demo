@@ -15,6 +15,6 @@ public class TestController {
 
     @GetMapping(value = "/hello", produces = MediaType.APPLICATION_JSON_VALUE)
     public Object checkIsFavorited() {
-        return "Hello， 我君哥。";
+        return "Hello， O2O-20191216。";
     }
 }
